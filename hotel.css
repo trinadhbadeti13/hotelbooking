@@ -1,0 +1,39 @@
+.hotel{
+	background-image: url(https://images7.alphacoders.com/362/362619.jpg);
+	background-size: cover;
+	height:650px;
+}
+.layoutcard{
+	background-color: white;
+	height: 190px;
+	margin-bottom: 60px;
+	border-radius: 20px;
+	margin-left: 25px;
+	margin-top: 20%;
+	width: 580px;
+}
+.headline{
+	color: black;
+	font-weight: bold;
+	padding-left: 15px;
+	padding-top: 15px;
+}
+.location{
+	color: black;
+	padding-left: 20px;
+}
+.costline{
+	padding-left: 15px;
+	color: black;
+	font-weight: bold;
+}
+.buttt{
+	border-radius:15px;
+	font-weight:bold;
+	color:black;
+	padding:5px;
+	padding-bottom:5px;
+	background-color: red;
+	font-family: 'Roboto';
+	border-width: 5px;
+}
